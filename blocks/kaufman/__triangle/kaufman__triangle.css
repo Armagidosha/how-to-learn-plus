@@ -3,5 +3,8 @@
   box-sizing: border-box;
   right: -210px;
   top: 0;
-  animation: rotation 40s linear infinite;
+  background-image: url(../../../images/kaufman-triangle.svg);
+  background-size: cover;
+  width: 877px;
+  height: 877px;
 }
